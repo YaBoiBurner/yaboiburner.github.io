@@ -1,12 +1,12 @@
-title: Dark Reader
+title: Jaden's blog thing
 markdown: kramdown
-url: ""
-baseurl: "/jekyll-theme-dark-reader"
+url: ''
+baseurl: '/yaboiburner.github.io'
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Jaden Pleasants
+  # email: dev_sharad@outlook.com
 
 plugins:
   - jekyll-paginate
@@ -15,7 +15,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-paginate_path: "/page:num/"
+paginate_path: '/page:num/'
 
 paginate: 5
 
@@ -28,13 +28,13 @@ collections:
 
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
-      layout: "post"
+      layout: 'post'
   - scope:
-      path: "_posts"
+      path: '_posts'
     values:
-      layout: "post"
+      layout: 'post'
       permalink: /posts/:categories/:year/:month/:day/:title/
 
-exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
+exclude: ['sitemap.xml', 'feed.xml', 'LICENSE', 'README.md']
