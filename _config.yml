@@ -1,8 +1,8 @@
 ---
 title: Jaden's blog thing
 markdown: kramdown
-url: ''
-baseurl: '/yaboiburner.github.io'
+url: 'yaboiburner.github.io'
+baseurl: ''
 
 # for atom feed
 author:
