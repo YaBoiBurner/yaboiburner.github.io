@@ -13,7 +13,6 @@ Hi. I'm Jaden. I like to write silly code, and mess around with Linux and Vim.
 - Discord: `YaBoiBurner#4564`
 - GitHub: [@YaBoiBurner](https://github.com/YaBoiBurner)
 - GitLab: [@YaBoiBurner](https://gitlab.com/YaBoiBurner)
-- Mastodon: [@YaBoiBurner@mastodon.social](https://mastodon.social/@YaBoiBurner)
 - Steam: [JadenPleasants](https://steamcommunity.com/id/JadenPleasants/)
 - Telegram: [@YaBoiBurner](https://t.me/YaBoiBurner)
 - Twitch: [@jadenpleasants](https://www.twitch.tv/jadenpleasants)
